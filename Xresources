@@ -21,7 +21,7 @@ XTerm*internalBorder: 3
 XTerm*loginShell: true
 XTerm*scrollBar: false
 XTerm*scrollKey: true
-XTerm*saveLines: 1000
+XTerm*saveLines: 4096
 XTerm*multiClickTime: 250
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
